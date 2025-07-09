@@ -1,6 +1,6 @@
 # CI4R-TOBB4
 
-This dataset was collected with a 4 GHz continuous-wave (CW) radar for human activity recognition.  It represents a large subset of the data used in the following papers:
+This dataset was collected with a 4 GHz continuous-wave (CW) radar for human activity recognition.  It represents a large subset of the data used in the aftermentioned paper.
 
 ## Details about radar utilized:
 
